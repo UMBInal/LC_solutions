@@ -1,2 +1,1 @@
-My solutions to popular LeetCode problems. 
-- Inal
+My solutions to popular LeetCode problems - Inal
