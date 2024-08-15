@@ -1,3 +1,5 @@
+// Uses recursion and has exponential complexity of O(2^n)
+
 class Solution {
     public double myPow(double x, int n) {
     
