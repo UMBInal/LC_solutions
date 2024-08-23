@@ -64,6 +64,7 @@ class Solution {
     /*
     
     Time Complexity: O(2 + 2n) = O(n)
+    Space Complexity: O(1)
 
     */
 
