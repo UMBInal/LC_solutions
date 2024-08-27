@@ -21,3 +21,8 @@ class Solution:
                 matrix[i][r] = temp
                 l+=1
                 r-=1
+    ''' More memory efficient reflection:
+            for i in range(n):
+            for j in range(n//2):
+                matrix[i][j], matrix[i][n-j-1]= matrix[i][n-j-1], matrix[i][j]
+    '''
